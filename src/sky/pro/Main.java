@@ -24,6 +24,7 @@ public class Main {
 
             //task 3
             int curentYear = 2021;
+
             int startYear = curentYear - 200;
             int finishYear = curentYear + 100;
            for ( i= startYear ;i < finishYear;i++) {
